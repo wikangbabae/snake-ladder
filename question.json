@@ -1,11 +1,11 @@
 [
 {
-    "question" : "What is operating system?",
-    "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
-    "d": "All of the mentioned",
-    "answer": "d"
+    "question" : "I ____ to the store yesterday.",
+    "a": "go",
+    "b": "went",
+    "c": "going",
+    "d": "gone",
+    "answer": "b"
 },
 {
     "question" : "To access the services of operating system, the interface is provided by the:",
